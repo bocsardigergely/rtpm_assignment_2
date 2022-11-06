@@ -3,7 +3,7 @@ declined = A_declined
 cancelled = A_cancelled  
 approved = A_pending  
 
-RTPM cite this [Professional 1](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_3.pdf) for the event classification
+RTPM cite this [Professional 1](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_3.pdf) for the event classification !WINNER! [Professional 4](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_winner_professional.pdf)
 
 RTPM cite this [Academic 1](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_31.pdf) for a different event classification & Section 6 Analysis of Incomplete Cases
 
