@@ -3,7 +3,11 @@ declined = A_declined
 cancelled = A_cancelled  
 approved = A_pending  
 
-RTPM cite this [tue paper](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_3.pdf) for the event classification
+RTPM cite this [Professional 1](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_3.pdf) for the event classification
+
+RTPM cite this [Academic 1](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_31.pdf) for a different event classification & Section 6 Analysis of Incomplete Cases
+
+RTPM cite this !WINNER! Academic: [Academic 2](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_winner_academic.pdf) for a different filtering cases not yet finished - section 2 last part - might prove above papers' event clf are the same
 
 
 ## Plan
