@@ -1,7 +1,7 @@
 ## Categories
-declined = A_declined
-cancelled = A_cancelled
-approved = A_pending
+declined = A_declined  
+cancelled = A_cancelled  
+approved = A_pending  
 
 RTPM cite this [tue paper](https://www.win.tue.nl/bpi/lib/exe/fetch.php?media=2017:bpi2017_paper_3.pdf) for the event classification
 
