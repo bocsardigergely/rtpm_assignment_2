@@ -19,7 +19,7 @@ RTPM cite this !WINNER! Academic: [Academic 2](https://www.win.tue.nl/bpi/lib/ex
 2. From each we extract the full event-trace, and prefixes
     1. when it comes to prefixes, only stuff after A_accepted are interesting, everything before that is the same
 3. Figure out the features to use
-
+ 
 
 ## Init Features - event logs
 case_attr = ['FirstWithdrawalAmount', 'NumberOfTerms', 'Accepted', 'MonthlyCost', 'Selected', 'CreditScore', 'OfferedAmount', 'OfferID', 'case:LoanGoal', 'case:ApplicationType', 'case:concept:name', 'case:RequestedAmount']
