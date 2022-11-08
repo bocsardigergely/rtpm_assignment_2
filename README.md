@@ -24,5 +24,5 @@ RTPM cite this !WINNER! Academic: [Academic 2](https://www.win.tue.nl/bpi/lib/ex
 ## Init Features - event logs
 case_attr = ['FirstWithdrawalAmount', 'NumberOfTerms', 'Accepted', 'MonthlyCost', 'Selected', 'CreditScore', 'OfferedAmount', 'OfferID', 'case:LoanGoal', 'case:ApplicationType', 'case:concept:name', 'case:RequestedAmount']
 
-event_attr_cat = ['org:resource', 'concept:name', 'lifecycle:transition']
+event_attr_cat = ['org:resource', 'concept:name', 'lifecycle:transition']  
 event_attr_num = ['time:timestamp']
