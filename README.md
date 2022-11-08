@@ -1,5 +1,5 @@
 ## Categories
-declined = A_declined  
+declined = A_denined  
 cancelled = A_cancelled  
 approved = A_pending  
 
