@@ -31,3 +31,4 @@ event_attr_num = ['time:timestamp']
 ## TODO
 
 How to encode datetime in pandas df?
+- https://www.analyticsvidhya.com/blog/2020/05/datetime-variables-python-pandas/
