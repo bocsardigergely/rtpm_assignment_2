@@ -26,3 +26,8 @@ case_attr = ['FirstWithdrawalAmount', 'NumberOfTerms', 'Accepted', 'MonthlyCost'
 
 event_attr_cat = ['org:resource', 'concept:name', 'lifecycle:transition']  
 event_attr_num = ['time:timestamp']
+
+
+## TODO
+
+How to encode datetime in pandas df?
